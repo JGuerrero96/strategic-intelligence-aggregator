@@ -1,0 +1,53 @@
+Core Python Libraries
+asyncio==3.4.3
+logging==0.5.1.2
+Environment and Configuration
+python-dotenv==1.0.0
+Data Manipulation and Scientific Computing
+numpy==1.24.3
+pandas==2.0.1
+scipy==1.10.1
+Vector Storage and Embedding
+sentence-transformers==2.2.2
+chromadb==0.4.15
+faiss-cpu==1.7.4
+Machine Learning and AI
+torch==1.13.1
+transformers==4.29.2
+huggingface_hub==0.15.1
+Local AI Inference
+llama-cpp-python==0.2.20
+ollama==0.1.3
+Multi-Agent Frameworks
+crewai==0.1.0
+instructor==0.3.5
+Natural Language Processing
+spacy==3.5.2
+nltk==3.8.1
+Vectorization and Embedding
+scikit-learn==1.2.2
+gensim==4.3.1
+Data Validation
+pydantic==2.3.0
+Async and Concurrency
+aiohttp==3.8.5
+asyncio-extras==1.0.0
+Optional: Visualization (if needed)
+matplotlib==3.7.1
+seaborn==0.12.2
+Optional: Additional AI/ML Tools
+wordcloud==1.8.1
+networkx==3.1
+Development and Testing
+pytest==7.3.1
+pytest-asyncio==0.21.0
+coverage==7.2.5
+Type Checking
+mypy==1.3.0
+types-all==1.0.0
+Logging and Debugging
+loguru==0.7.0
+Security
+cryptography==41.0.1
+Web Interaction (if needed)
+requests==2.31.0
