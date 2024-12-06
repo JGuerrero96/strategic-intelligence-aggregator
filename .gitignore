@@ -1,0 +1,15 @@
+"""
+# Environment
+.env
+venv/
+*.pyenv
+__pycache__/
+
+# Data
+*.csv
+*.json
+!data/sample*
+
+# Logs
+*.log
+"""
