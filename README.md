@@ -44,20 +44,20 @@ Optional: Ollama for local model inference
 
 Setup Steps
 
-Clone the repository
+1. Clone the repository
 bashCopygit clone https://github.com/yourusername/strategic-intelligence-aggregator.git
 
 cd strategic-intelligence-aggregator
 
-Create a virtual environment
+2. Create a virtual environment
 bashCopypython -m venv venv
 
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-Install dependencies
+3. Install dependencies
 bashCopypip install -r requirements.txt
 
-Configure environment variables
+4. Configure environment variables
 bashCopycp .env.example .env
 # Edit .env with your specific configurations
 
