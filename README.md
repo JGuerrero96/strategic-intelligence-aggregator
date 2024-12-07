@@ -50,6 +50,7 @@ bashCopygit clone https://github.com/yourusername/strategic-intelligence-aggrega
 cd strategic-intelligence-aggregator
 
 2. Create a virtual environment
+   
 bashCopypython -m venv venv
 
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
