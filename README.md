@@ -46,10 +46,12 @@ Setup Steps
 
 Clone the repository
 bashCopygit clone https://github.com/yourusername/strategic-intelligence-aggregator.git
+
 cd strategic-intelligence-aggregator
 
 Create a virtual environment
 bashCopypython -m venv venv
+
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 Install dependencies
